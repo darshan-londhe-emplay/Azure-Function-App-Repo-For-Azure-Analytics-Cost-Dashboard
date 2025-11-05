@@ -4,4 +4,4 @@ azure-mgmt-costmanagement==1.0.0
 azure-mgmt-monitor==7.0.0
 azure-mgmt-resource==23.0.1
 psycopg2-binary==2.9.9
-
+#This is the new requirement for the azure-function
